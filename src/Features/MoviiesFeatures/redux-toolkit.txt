@@ -1,0 +1,14 @@
+Install
+> npm install redux react-redux @reduxjs/toolkit
+
+Create redux Store -> configureStore
+
+Provide redux-Store to React -> using Provider
+
+Create a state SLICE:
+  - movieSlice : import createSlice
+  - initialState 
+  - create Reducers
+  - no need to create seperate files for Actions, Constants and Reducers
+
+Add SLICE to STORE
